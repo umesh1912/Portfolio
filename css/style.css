@@ -8003,12 +8003,13 @@ span.overlay .d-title{
     width:100%;
     margin:0;
     text-transform: none;
-    font-size: 16px;
+    font-size: 24px;
+    font-weight:bold;
 }
 
 .picframe:hover span.overlay {
     opacity: 1;
-    background: rgba(0,0,0, .7);
+    background: rgba(0,0,0, .8);
 }
 
 .picframe:hover img{
